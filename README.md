@@ -5,22 +5,21 @@
 <br />
 <div align="center">
   <a href="https://github.com/Arshlan-Raza/Simple_counter_app">
-    <img src="![image](https://github.com/Arshlan-Raza/Simple_counter_app/assets/98450417/8874e9c4-7448-4c85-8fb4-71d4219e9be5)
-" alt="Logo" width="80" height="80">
+    <img src="![image](https://github.com/Arshlan-Raza/Simple_counter_app/assets/98450417/2ae081e7-fdd0-48d8-9f68-b4b705a2426c)
+"alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+  It is just a simple increment and decrement of a number using '+' and '-' sign
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <br />
+    <a href="https://github.com/Arshlan-Raza/Simple_counter_app/blob/master/counter.png">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/Arshlan-Raza/Simple_counter_app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/Arshlan-Raza/Simple_counter_app/issues">Request Feature</a>
   </p>
 </div>
