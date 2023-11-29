@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
@@ -12,18 +12,22 @@
 <body>
 
   <!-- wrapper  -->
- <div class="w-[100vw] h-[100vh] flex flex-col  item-center justify-center bg-/jr-korpa-9XngoIpxcEo-unsplash.jpg ">
-     <div>Increment and Decrement</div>
-     <div>
-         <button>
+ <div class="text-white w-[100vw] h-[100vh] flex flex-col items-center justify-center  bg-[url('/andrew-ridley-jR4Zf-riEjI-unsplash.jpg')] bg-cover bg-blend-multiply gap-10">
+     <div class="text-opacity-100 font-black bg-slate-600 ">Increment and Decrement</div>
+
+     <div class="bg-white flex flex-row rounded-sm p-3 px-5 gap-10">
+        
+       <!-- negative wala button  -->
+      <button onclick="decrement()" class="text-black border-r-2  border-[#bfbfbf]  pr-5">
              <i class="fa-solid fa-minus"></i>
          </button>
 
-         <div>
+         <div class="text-black font-bold" id="counter" >
              0
          </div>
 
-         <button>
+         <!-- positive wala button  -->
+      <button onclick="increment()" class="text-black border-l-2 border-[#bfbfbf] pl-5">
              <i class="fa-solid fa-plus"></i>
          </button>
 
