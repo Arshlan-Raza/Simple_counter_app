@@ -16,9 +16,9 @@
     <br />
     <br />
     <br />
-    <a href="https://github.com/Arshlan-Raza/Simple_counter_app/blob/master/counter.png">View Demo</a>
+    <a href="https://github.com/Arshlan-Raza/Simple_counter_app/blob/master/index.html">View Demo</a>
     ·
-    <a href="https://github.com/Arshlan-Raza/Simple_counter_app/issues">Report Bug</a>
+    <a href="https://github.com/Arshlan-Raza/Simple_counter_app/blob/master/index.js">Report Bug</a>
     ·
     <a href="https://github.com/Arshlan-Raza/Simple_counter_app/issues">Request Feature</a>
   </p>
